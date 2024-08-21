@@ -5,7 +5,6 @@ class Plant {
     private int age;
     private double height;
     private String color;
-
     private String location;
     private boolean isFlowering;
     private int waterLevel;
